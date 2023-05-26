@@ -1,6 +1,6 @@
 import { Grid, IconButton, Typography, TextField, createTheme, ThemeProvider } from "@mui/material";
 import React from 'react'
-import "../../../../../lms-dashboard/src/App.css"
+
 
 const nupat ={
     700: '#131E47'

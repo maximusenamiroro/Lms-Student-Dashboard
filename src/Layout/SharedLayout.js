@@ -18,7 +18,7 @@ const SharedLayout = () => {
           }}
         >
           <DashboardHeader />
-          <Box sx={{ mx: "auto", ml:{lg:"18rem", sm:"0%",}, pl:{sm:"20px"}, width: {lg:"85%",sm: "0%",}, marginTop: {lg:14, md:14, sm:12, xs:10}, }}   >
+          <Box sx={{ mx: "auto", ml:{lg:"18rem", sm:"0%",}, pl:{sm:"20px"}, width: {lg:"85%", sm: "0%",}, marginTop: {lg:14, md:14, sm:12, xs:10}, }}   >
             <Outlet />
           </Box>
         </Box>

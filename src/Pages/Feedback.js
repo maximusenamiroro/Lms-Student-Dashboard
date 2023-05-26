@@ -8,7 +8,7 @@ import Longinput from "../Components/Inputs/Longinput/Input";
 const Feedback = () => {
   return (
     <>
-      <Box sx={{ width: { lg: "100%" } }}>
+      <Box sx={{ width: { lg: "100%", md: "100vw" } }}>
         <Box
           sx={{
             paddingX: { xs: "7px" },
